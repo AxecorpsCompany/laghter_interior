@@ -1,0 +1,3 @@
+Develop and Design Servlet idfc.java which Says "Corgulation u Are Elible For idfc First Bank Credit Card Life Time and Get Instant Limit. to the user Who has made first Request to this servlet. and all the Next Users it shows total Numbers Credit card request. when the Contaniter remove if the Servet say "thank you being part of Idfc bank".
+
+idfc.java page balso has request form which take input from customer like name , contact number , address, email id , indentinty proof, passport size photograph and Cridet card limit, when the form is completely fill and the user submit message "thank you for your Request" is shown on the New Page. 
